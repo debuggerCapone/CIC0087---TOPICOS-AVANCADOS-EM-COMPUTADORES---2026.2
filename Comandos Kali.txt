@@ -1,0 +1,45 @@
+//----------Conectar na VPN do Try Hack Me-------------//
+//1 abra o terminal e digite:
+//
+//	cd ~/Downloads
+//	
+//2 veja se está baixado:
+//
+//	sudo apt update
+//	sudo apt install openvpn -y
+//
+//3 inicie a conexão:
+//
+//	sudo openvpn --config ~/Downloads/vpnbaixar.ovpn 
+//	vpnbaixar.ovpn
+//
+//4 Não feche o terminal após a mensagem de 
+//
+//"initialization Sequence Completed"
+//
+//5 Abre um terminal novo e digite:
+//
+//	ip addr show tun0
+//----------------------------------------------------//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
